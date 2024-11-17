@@ -2,7 +2,6 @@ package com.example.currency_discount_app.controllers;
 
 import com.example.currency_discount_app.services.CurrencyExchangeService;
 import com.example.currency_discount_app.services.DiscountService;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.Map;

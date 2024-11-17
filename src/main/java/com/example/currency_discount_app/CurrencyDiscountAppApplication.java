@@ -11,7 +11,6 @@ public class CurrencyDiscountAppApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(CurrencyDiscountAppApplication.class, args);
-		System.out.println("Project Started");
 	}
 
 }
